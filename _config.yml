@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown 
 highlighter:      pygments
 
 # Permalinks
@@ -7,15 +7,18 @@ permalink:        pretty
 relative_permalinks: false 
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            "Dark Matters" 
+tagline:          ''
+description:      'A monthly podcast and live show; the first Thursday of the month at 11:59 at the <a href="http://www.packtheater.com">Pack Theater</a>'
+url:              "www.darkmattersshow.com"
 baseurl:          /
 
+locale                   : "en"
+title_separator          : "-"
+teaser                   : "DarkMattersTeaser.png"
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Michael Bilow'
+  url:            http://jeopardyhotties.tumblr.com/post/117059282149/april-catch-up-part-one
 
 paginate:         5
 
