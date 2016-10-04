@@ -59,7 +59,7 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-@media (min-width: 48em) {
+@media (min-width: 56em) {
   .sidebar {
     position: fixed;
     top: 0;
@@ -124,7 +124,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
-  background-color: #202020;
+  background-color: #000;
   color: #ddd;
 }
 
