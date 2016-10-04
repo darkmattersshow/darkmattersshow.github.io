@@ -18,7 +18,15 @@ title_separator          : "-"
 teaser                   : "DarkMattersTeaser.png"
 author:
   name:           'Michael Bilow'
-  url:            http://jeopardyhotties.tumblr.com/post/117059282149/april-catch-up-part-one
+  url:            "http://jeopardyhotties.tumblr.com/post/117059282149/april-catch-up-part-one"
+
+twitter:
+  username               : darkmattersshow
+facebook:
+  username               : darkmattersshow
+social:
+  type                   : Organization # Person or Organization (defaults to Person)
+
 
 paginate:         5
 
