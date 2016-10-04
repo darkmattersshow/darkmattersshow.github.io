@@ -89,6 +89,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 2rem;
+  color: #44F;
+  text-shadow: 3px 3px 3px rgba(255, 255, 255, 1);
 }
 h2 {
   margin-top: 1rem;
@@ -377,9 +379,35 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
-
 /*
- * background-color: #f5f5f5;
+ * Pagination
+ *
+ * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * there are no more previous or next posts to show.
+ */
+
+.pagination {
+  overflow: hidden; /* clearfix */
+  margin-left: -1rem;
+  margin-right: -1rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  color: #ccc;
+  text-align: center;
+}
+
+/* Pagination items can be `span`s or `a`s */
+.pagination-item {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #eee;
+}
+.pagination-item:first-child {
+  margin-bottom: -1px;
+}
+
+/* Only provide a hover state for linked pagination items */
+a.pagination-item:hover {
+  background-color: #f5f5f5;
 }
 
 @media (min-width: 30em) {
