@@ -15,7 +15,7 @@ baseurl: ""
 
 locale                   : "en"
 title_separator          : "-"
-teaser                   : "DarkMattersTeaser.png"
+teaser                   : "/assets/darkmatterscover.png"
 author:
   name:           'Michael Bilow'
   url:            "http://jeopardyhotties.tumblr.com/post/117059282149/april-catch-up-part-one"
@@ -28,13 +28,13 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
 
 
-paginate:         5
+paginate:        2 
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/darkmattersshow/darkmattersshow.github.io
 
 
 gems: [jekyll-paginate, jekyll-gist]
