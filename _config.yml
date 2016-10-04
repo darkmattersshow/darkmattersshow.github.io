@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            "Dark Matters" 
 tagline:          'SECRET MYSTERIES OF THE UNKNOWN UNIVERSE ... AND BEYOND'
 description:      'Podcast and Live Show <br /> First Thursday of the Month, 11:59 pm at the <a href="http://www.packtheater.com">Pack Theater</a>'
-url:              "www.darkmattersshow.com"
+url:              "http://www.darkmattersshow.com"
 baseurl:          /
 
 locale                   : "en"
