@@ -1,37 +1,10 @@
 ---
 layout: post
-title: Introducing Hyde
+title: October 6 Show -- CULTS 
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+After successfully plumbing the depths of the mysteries surrounding ghosts, Dark Matters returns to the [Pack Theater](http://www.packtheater.com) for its third installment on cults. 
 
-### Built on Poole
+Our guests include Cathy Schenkelberg, who spent 14 years as a Scientologist, and will tell us about her years in the church.  As always, our amazing one-man house band, Rich Develtian will be providing the score for the night as we explore the dark side of religion.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Hyde features
-
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+The show starts at 11:59 pm this Thursday, October 6. This show will be standing-room only, so get there early! And if you've been in a cult, or have experience with a cult, please call us at 213-845-9845. Phone lines open at 12:10 am, and we will be announcing when lines are open or closed on [social media](http://www.twitter.com/darkmattersshow). 
