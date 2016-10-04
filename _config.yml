@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown 
-highlighter:      pygments
+highlighter:      rouge 
 
 # Permalinks
 permalink:        pretty
@@ -8,8 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            "Dark Matters" 
-tagline:          ''
-description:      'A monthly podcast and live show; the first Thursday of the month at 11:59 at the <a href="http://www.packtheater.com">Pack Theater</a>'
+tagline:          'SECRET MYSTERIES OF THE UNKNOWN UNIVERSE ... AND BEYOND'
+description:      'Podcast and Live Show <br /> First Thursday of the Month, 11:59 pm at the <a href="http://www.packtheater.com">Pack Theater</a>'
 url:              "www.darkmattersshow.com"
 baseurl:          /
 
