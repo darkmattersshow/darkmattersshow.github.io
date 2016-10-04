@@ -1,3 +1,7 @@
-.post_title a {
-    color: #F33;
-}
+.page-title,
+.post-title,
+.post-title a {
+    font: impact;
+      color: #DDD;
+        text-shadow: 3px 3px 3px #33F;
+  }
