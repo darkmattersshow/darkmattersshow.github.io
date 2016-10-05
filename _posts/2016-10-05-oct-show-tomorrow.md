@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DARK MATTERS #3 -- CULTS TOMORROW NIGHT!"
+title: "DARK MATTERS #3 TOMORROW NIGHT!"
 date: "2016-10-05"
 ---
 <img align="left" width="30%" src="/assets/franky_michael_attitude.jpg">
