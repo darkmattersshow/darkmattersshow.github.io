@@ -12,6 +12,8 @@ tagline:          'SECRET MYSTERIES OF THE UNKNOWN UNIVERSE ... AND BEYOND'
 description:      'Podcast & Live Show<br />1st Thursdays, 11:59 pm<br /><a href="http://www.packtheater.com">Pack Theater</a><br />6470 Santa Monica Blvd'
 url:              "http://www.darkmattersshow.com"
 baseurl: ""
+logo: "/assets/darkmatterslogo.png"
+timezone: "America/Los_Angeles"
 
 locale                   : "en"
 title_separator          : "-"
