@@ -5,3 +5,12 @@
       color: #DDD;
         text-shadow: 3px 3px 3px #33F;
   }
+
+.lead {
+    text-align: center;
+}
+
+.sidebar-about h1 {
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+}
