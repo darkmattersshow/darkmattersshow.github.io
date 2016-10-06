@@ -17,6 +17,7 @@ pretty_description: |
   6470 Santa Monica Blvd
 url:              "http://www.darkmattersshow.com"
 baseurl: ""
+og_image: "/assets/darkmatterscover_fb.png"
 logo: "/assets/darkmatterslogo.png"
 timezone: "America/Los_Angeles"
 
