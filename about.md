@@ -21,4 +21,4 @@ Katie Reed is a comedian an video editor for Smosh. A graduate of the University
 
 <h3>Rich Develtian, Music Director</h3>
 
-Rich Devletian is a musician and composer. His work has been used in numerous films, including 2011's _Footloose_, and he performs with the band UpDownUp.
+Rich is a musician and composer who spent many years roaming the country in a black van with no markings and tinted windows. No one knows for sure what the vehicle's contents were. Rich, sworn to secrecy, can only reveal that whatever was in there... it was <a href="http://www.ours.net/ourspages/">OURS</a>. He now records, performs, and writes music for a variety of projects including feature films, TV shows, <a href="http://www.updownupmusic.com">UpdownUp</a>, and <a href-"http://www.rundmc.com/dmc/">DMC</a>.
