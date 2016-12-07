@@ -5,6 +5,7 @@ date: "2016-12-07"
 ---
 
 <img src="/assets/franky_michael_skeletons.png">
+<i>Art by Jose Pilpa</i>
 
 Imagine the worst thing that could happen to Santa. Now triple it. Learn how marketers control you, and experience the thrill of live auction sounds. All this and more, in this month's Dark Matters. 
 
