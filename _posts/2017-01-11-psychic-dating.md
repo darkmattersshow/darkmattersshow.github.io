@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "DARK MATTERS #5 -- COMMERCIALIZATION & CHARITY AUCTION"
-date: "2016-11-09"
+title: "DARK MATTERS #7 -- PSYCHIC DATING (NEW NIGHT & TIME)"
+date: "2017-01-11"
 ---
 
-DARK MATTERS will be back December 1, smack dab in the middle of the holiday season, to dissect and skewer the American holiday tradition of unbridled spending. Our guests will include a former mall Santa, a professor of marketing, and we will be auctioning Dark Matters-branded apparel, gifts, and experiences. 
+After smashing success, sellout crowds, and iTunes download numbers that make Tim Cook sweat through his Egyptian cotton sheets, DARK MATTERS will be moving to a new time and day, 11pm on the 4th Saturday of the month. 
 
-More information, and a chance to connect with your fellow truth-seekers at the [Facebook event page](https://www.facebook.com/events/580647692127043/).
+We're blowing out the first show of our cherry night and time by exploring the world of love **and** the world of psychics. We bring you: PSYCHIC DATING.
+
+Host Michael Bilow will go on dates with three women. He will get to know them, they will get to know him, and a psychic will get to know them both, psychically.
+
+With our new night and new time comes a new phone number: 818-650-DARK. Call us.We're listening.
