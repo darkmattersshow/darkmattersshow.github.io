@@ -9,11 +9,11 @@ relative_permalinks: false
 # Setup
 title:            "Dark Matters" 
 tagline:          'SECRET MYSTERIES OF THE UNKNOWN UNIVERSE ... AND BEYOND'
-description: "Sci-Fi Podcast & Live Show 4th Mondays 11pm at the Pack Theater, 6470 Santa Monica Blvd"
+description: "Sci-Fi Podcast & Live Show 4th Saturdays 11pm at the Pack Theater, 6470 Santa Monica Blvd"
 pretty_description: |
   Podcast & Live Show<br /> 
-  1st Thursday of the Month<br />
-  11:59 pm &nbsp;&nbsp;// &nbsp;&nbsp;<a href="http://www.packtheater.com">Pack Theater</a><br />
+  4th Saturday of the Month<br />
+  11 pm &nbsp;&nbsp;// &nbsp;&nbsp;<a href="http://www.packtheater.com">Pack Theater</a><br />
   6470 Santa Monica Blvd
 url:              "http://www.darkmattersshow.com"
 baseurl: ""
