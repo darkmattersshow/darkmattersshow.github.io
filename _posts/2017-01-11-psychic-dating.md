@@ -10,4 +10,4 @@ We're blowing out the first show of our cherry night and time by exploring the w
 
 Host Michael Bilow will go on dates with three women. He will get to know them, they will get to know him, and a psychic will get to know them both, psychically.
 
-With our new night and new time comes a new phone number: 818-650-DARK. Call us.We're listening.
+With our new night and new time comes a new phone number: 818-650-DARK. Call us. We're listening.
