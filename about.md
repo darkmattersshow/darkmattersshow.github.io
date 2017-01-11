@@ -9,7 +9,7 @@ Dark Matters was created by Franky Guttman & Michael Bilow. Katie Reed is the As
 
 <h3>Franky Guttman, Co-Host</h3>
 
-Franky Guttman is a comedian, editor, and truth-seeker.  Originally from New York City, his editing credits include _Son of Zorn_ on NBC and _...with Bob and David_ for Netflix. He performs regularly with Fussy at the Rude Mondays show at the Pack Theater, and with several other groups including Thrashtown across Los Angeles. He owns a dog that once tried to bite Michael's penis. 
+Franky Guttman is a comedian, editor, and truth-seeker.  Originally from New York City, his editing credits include _Son of Zorn_ on FOX and _...with Bob and David_ for Netflix. He performs regularly with Fussy at the Rude Mondays show at the Pack Theater, and with several other groups including Thrashtown across Los Angeles. He owns a dog that once tried to bite Michael's penis. 
 
 <h3>Michael Bilow, Co-Host</h3>
 
