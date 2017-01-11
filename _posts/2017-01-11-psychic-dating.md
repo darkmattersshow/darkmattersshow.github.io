@@ -6,7 +6,7 @@ date: "2017-01-11"
 
 After smashing success, sellout crowds, and iTunes download numbers that make Tim Cook sweat through his Egyptian cotton sheets, DARK MATTERS will be moving to a new time and day, 11pm on the 4th Saturday of the month. 
 
-We're blowing out the first show of our cherry night and time by exploring the world of love **and** the world of psychics. We bring you: PSYCHIC DATING.
+We're blowing out the first show of our cherry night and time by exploring the world of love _andx_ the world of psychics. We bring you: PSYCHIC DATING.
 
 Host Michael Bilow will go on dates with three women. He will get to know them, they will get to know him, and a psychic will get to know them both, psychically.
 
