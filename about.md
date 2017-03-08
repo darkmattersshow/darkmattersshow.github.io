@@ -17,7 +17,7 @@ Michael Bilow is a scientist, comedian, and skeptic. In his waking hours, he is 
 
 <h3>Katie Reed, Associate Producer</h3>
 
-Katie Reed is a comedian an video editor for Smosh. A graduate of the University of California, Irvine, she is a player at ComedySportz LA. Katie also writes and performs as part of _Late Nightmare with Emily Candini_ at the Pack Theater.
+Katie Reed is a comedian and actor. A graduate of the University of California, Irvine, Katie voices Tina on the animated series **BELLE & TINA ARE TIME TRAVELERS!** and works as a video editor and freelance writer for the YouTube channel Smosh. Katie writes and performs as part of _Late Nightmare with Emily Candini_ at the Pack Theater and with the ensemble of Comedysportz LA.
 
 <h3>Rich Develtian, Music Director</h3>
 
