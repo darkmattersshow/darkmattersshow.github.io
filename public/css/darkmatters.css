@@ -19,3 +19,7 @@
         text-shadow: 0px 5px 5px #33F;
     text-align: center;
 }
+
+.sidebar-sticky {
+    top: 1rem;
+}
