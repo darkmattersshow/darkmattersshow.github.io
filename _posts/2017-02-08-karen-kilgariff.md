@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "DARK MATTERS #7 -- PSYCHIC DATING (NEW NIGHT & TIME)"
-date: "2017-01-11"
+title: "Karen Kilgariff is our guest for MYSTERIOUS DISAPPEARANCES!" 
+date: "2017-02-08"
 ---
 
-After smashing success, sellout crowds, and iTunes download numbers that make Tim Cook sweat through his Egyptian cotton sheets, DARK MATTERS will be moving to a new time and day, 11pm on the 4th Saturday of the month. 
+<img src="/assets/karen_kilgariff.jpg" eisplay="block" width="100%"/>
+<i>Karen's credits include Mr. Show & The Ellen DeGeneres Show</i>
 
-We're blowing out the first show of our cherry night and time by exploring the world of love _and_ the world of psychics. We bring you: PSYCHIC DATING.
 
-Host Michael Bilow will go on dates with three women. He will get to know them, they will get to know him, and a psychic will get to know them both, psychically.
-
-With our new night and new time comes a new phone number: 818-650-DARK. Call us. We're listening.
+Fans of <a href="http://www.feralaudio.com/show/my-favorite-murder/">My Favorite Murder</a>, get happy; host of the podcast Karen Kilgariff will be joining DARK Matters as a guest on our MYSTERIOUS DISAPPEARANCES show. Join us Saturday, Feburary 25 at the Pack Theater to find out about the Sherri Papini case--the disappearance that keeps getting weirder.
