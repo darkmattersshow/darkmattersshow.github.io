@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "DARK MATTERS #7 -- PSYCHIC DATING (NEW NIGHT & TIME)"
-date: "2017-01-11"
+title: "DARK MATTERS #8 -- MYSTERIOUS DISAPPEARANCES"
+date: "2017-02-01"
 ---
 
-After smashing success, sellout crowds, and iTunes download numbers that make Tim Cook sweat through his Egyptian cotton sheets, DARK MATTERS will be moving to a new time and day, 11pm on the 4th Saturday of the month. 
+Get ready for more DARK Matters, or prepare for it to get you. We have an incredibly special show this month on MYSTERIOUS DISAPPEARANCES. Our guests will include a host of one of the highest-rated podcasts on iTunes; an in-depth analysis of the disappearance of Elissa Lam; and an incredible true story of being kidnapped. 
 
-We're blowing out the first show of our cherry night and time by exploring the world of love _and_ the world of psychics. We bring you: PSYCHIC DATING.
-
-Host Michael Bilow will go on dates with three women. He will get to know them, they will get to know him, and a psychic will get to know them both, psychically.
-
-With our new night and new time comes a new phone number: 818-650-DARK. Call us. We're listening.
+Do you have a story of a disapperance? The phone number is 818-650-DARK. Call us. We're listening.
