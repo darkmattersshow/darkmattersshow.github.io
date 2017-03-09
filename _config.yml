@@ -36,7 +36,7 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
 
 
-paginate:        2 
+paginate:        4 
 
 # Custom vars
 version:          2.1.0

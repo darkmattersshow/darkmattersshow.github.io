@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "DARK MATTERS -- 2017 PREDICTIONS -- TONIGHT" 
-date: "2017-01-05"
+title: "DARK MATTERS -- MYSTERIOUS DISAPPEARANCES -- TONIGHT" 
+date: "2017-02-25"
 ---
 
-Nostradamus and Nosferatu join us in the studio, along with candidate for Democratic State Assembly Royce Shockley. Rich Devletian will set the mood with music and Katie Reed will manage our phones as DARK MATTERS finds out what will happen in 2017, and what might. 
+<img src="/assets/myst_dis_elissa.png" eisplay="block" width="100%"/>
+<i>Our guest shared his own true story of being kidnapped</i>
 
-Like what you hear? Curious about removing the world behind the curtain? Call us at (213) 438-9845, and you might be featured on one of our upcoming mini-sodes. Or come see the real deal on Thursday January 5. Check out the [Facebook event page](https://www.facebook.com/events/580377655505070/) for more details.
+Tonight, DARK Matters fills the Pack Theater with the true story of a kidnapping, a possible hoax out of Northern California that keeps getting weirder, and an in-depth analysis (and a new theory) about the disapperance and murder of Elissa Lam at the Cecil Hotel.
+
+Want to find out how to avoid getting abducted? Come tonight and see if you can spot the common thread tying all of these disappearances together. The choice, as always is yours. Our call-in line is (818) 650-DARK. We're looking forward to hearing from you. 
