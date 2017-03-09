@@ -5,7 +5,7 @@ date: "2017-02-25"
 ---
 
 <img src="/assets/myst_dis_elissa.png" eisplay="block" width="100%"/>
-<i>Our guest shared his own true story of being kidnapped</i>
+<i>What does a test for TB have to do with a young woman's disapperance?</i>
 
 Tonight, DARK Matters fills the Pack Theater with the true story of a kidnapping, a possible hoax out of Northern California that keeps getting weirder, and an in-depth analysis (and a new theory) about the disapperance and murder of Elissa Lam at the Cecil Hotel.
 
