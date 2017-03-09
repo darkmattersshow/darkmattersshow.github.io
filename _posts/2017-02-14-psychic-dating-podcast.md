@@ -4,7 +4,7 @@ title: "PSYCHIC DATING PODCAST ON iTUNES"
 date: "2017-02-14"
 ---
 
-<img src="/assets/psychic_dating_date_1.jpg" display="block" width="100%"/>
+<img src="/assets/psychic_dating_date_1.png" display="block" width="100%"/>
 <i>Our host's first dangerous date was at the LAX gun range</i>
 
 Just in time for Valentine's Day, DARK Matters is here to drop a little supernatural love in your ears. The podcast is available on <a href="https://itunes.apple.com/us/podcast/this-is-dark-matters/id1174542551?mt=2">iTunes</a> and at <a href="http://darkmatters.libsyn.com/podcast">Libsyn</a>. Download, subscribe, learn, laugh, and see if you can out-psych our psychic.
