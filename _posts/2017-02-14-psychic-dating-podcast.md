@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "2017 PREDICTIONS PODCAST ON iTUNES" 
-date: "2017-01-18"
+title: "PSYCHIC DATING PODCAST ON iTUNES" 
+date: "2017-02-14"
 ---
 
-<img src="/assets/hunter_nosferatu.gif" display="block" width="100%"/>
-<i>Nosferatu joined Nostradamus for our 2017 Predictions</i>
+<img src="/assets/psychic_dating_date_1.jpg" display="block" width="100%"/>
+<i>Our host's first dangerous date was at the LAX gun range</i>
 
-Our 2017 predictions stretched from politics to economics to the impending Armegeddon (which is only a few weeks late as of now!). The podcast is available on <a href="https://itunes.apple.com/us/podcast/this-is-dark-matters/id1174542551?mt=2">iTunes</a> and at <a href="http://darkmatters.libsyn.com/podcast/2016">Libsyn</a>. Download, subscribe, learn, laugh, and hear what Deb Jones has been up to.
+Just in time for Valentine's Day, DARK Matters is here to drop a little supernatural love in your ears. The podcast is available on <a href="https://itunes.apple.com/us/podcast/this-is-dark-matters/id1174542551?mt=2">iTunes</a> and at <a href="http://darkmatters.libsyn.com/podcast">Libsyn</a>. Download, subscribe, learn, laugh, and see if you can out-psych our psychic.
 
-Feeling generous? Like what you hear? Curious about removing the world behind the curtain? Call us at (818) 650-DARK, and you might be featured on one of our upcoming mini-sodes. Or come see the real deal January 28, 2017, where we'll have a psychic to find out if Michael Bilow can find love with one of three blind dates!
+Feeling generous? Like what you hear? Curious about removing the world behind the curtain? Call us at (818) 650-DARK, and you might be featured on one of our upcoming mini-sodes. Join us on February 25, when Karen Kilgariff of <a href="https://itunes.apple.com/us/podcast/my-favorite-murder-karen-kilgariff-georgia-hardstark/id1074507850?mt=2">My Favorite Murder</a> will join us to discuss MYSTERIOUS DISAPPERANCES.
