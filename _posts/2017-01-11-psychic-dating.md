@@ -3,6 +3,8 @@ layout: post
 title: "DARK MATTERS #7 -- PSYCHIC DATING (NEW NIGHT & TIME)"
 date: "2017-01-11"
 ---
+<img src="/assets/psychic_dating_date_2.jpg" eisplay="block" width="100%"/>
+<i>Will a flower arranging class bring love by Valentine's Day?</i>
 
 After smashing success, sellout crowds, and iTunes download numbers that make Tim Cook sweat through his Egyptian cotton sheets, DARK MATTERS will be moving to a new time and day, 11pm on the 4th Saturday of the month. 
 
